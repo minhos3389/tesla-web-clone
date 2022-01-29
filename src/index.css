@@ -6,6 +6,11 @@
   padding: 0;
 }
 
+a {
+  /* default 는 underline */
+  text-decoration: none;
+}
+
 body {
   width: 100%;
   /* 컨텐츠가 블록 요소의 왼쪽 및 오른쪽 가장자리를 오버플로할때 표시되는 내용 설정 */
