@@ -14,7 +14,7 @@ function Section({
       <Fade bottom>
         <ItemText>
           <h1>{title}</h1>
-          <p>{description}</p>
+          <p style={{ marginTop: 10 }}>{description}</p>
         </ItemText>
       </Fade>
       <Buttons>
